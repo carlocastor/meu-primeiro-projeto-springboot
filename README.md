@@ -1,1 +1,2 @@
+[![Build Status](https://travis-ci.org/carlocastor/meu-primeiro-projeto-springboot.svg?branch=master)](https://travis-ci.org/carlocastor/meu-primeiro-projeto-springboot)
 # meu-primeiro-projeto-springboot
